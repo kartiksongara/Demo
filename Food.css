@@ -1,0 +1,31 @@
+.main{
+    height: 100rem;
+}
+.content {
+    background-image: url("photo-1504674900247-0877df9cc836.avif");
+    background-size: cover;
+    width: 84.6rem;
+    height: 35rem;
+    font-family:cursive;
+    justify-content: center;
+    position: relative;
+
+}
+ h1{
+    padding-top: 5rem;
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+.button{
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    position: absolute;
+    left: 48%;
+}
+button{
+    background-color: tomato;
+    box-shadow: 0px 0px 5px 5px white;
+}
